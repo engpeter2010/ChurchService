@@ -1,0 +1,8 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Welcome to Church service Program" Height="70" HorizontalAlignment="Left" Margin="98,103,0,0" Name="Label1" VerticalAlignment="Top" Width="291" FontSize="16" FontWeight="Bold" VerticalContentAlignment="Center" />
+    </Grid>
+</Window>
